@@ -62,7 +62,7 @@ The notebook provides visualizations of the flow fields computed by both methods
 ![Lucas-Kanade Result](path/to/lucas_kanade_output.png)
 ![Horn-Schunck Result](path/to/horn_schunck_output.png)
 
-##
+## REPORT
 The detailed report have been uploded in the repository please go through it.
 
 ---

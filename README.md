@@ -1,5 +1,3 @@
-# Motion-estimation-using-Lucas-kanade-Horn-schunck-
----
 
 # Motion Estimation in Computer Vision
 
@@ -13,7 +11,8 @@ This Jupyter notebook demonstrates motion estimation techniques in computer visi
 5. Image Derivatives
 6. Lucas-Kanade Method
 7. Horn-Schunck Method
-8. Results and Visualization
+8. RAFT
+9. Results and Visualization
 
 ## Introduction
 Motion estimation is a critical task in computer vision, used in various applications such as video compression, object tracking, and autonomous navigation. This notebook explores two fundamental methods for motion estimation: Lucas-Kanade and Horn-Schunck.
@@ -49,6 +48,8 @@ The Lucas-Kanade method is implemented to estimate optical flow. This method ass
 
 ## Horn-Schunck Method
 The Horn-Schunck method is another approach to estimating optical flow, which introduces a global smoothness constraint.
+## RAFT
+This is an another method for estimating optical flow, it belongs to deep learning domin
 
 ### Steps:
 1. Initialize `u` and `v` with zero values.
@@ -60,6 +61,9 @@ The notebook provides visualizations of the flow fields computed by both methods
 ### Sample Output
 ![Lucas-Kanade Result](path/to/lucas_kanade_output.png)
 ![Horn-Schunck Result](path/to/horn_schunck_output.png)
+
+##
+The detailed report have been uploded in the repository please go through it.
 
 ---
 
